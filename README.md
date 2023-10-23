@@ -4,12 +4,12 @@ I am Deepanshu Singh. I'm skilled with JavaScrip💻 and all its associated runt
 
 🌟 Technologies I've worked with:
 
-React|
-Node.js|
-MongoDB|
-Express|
-Oracle SQL|
-PL/SQL|
+React |
+Node.js |
+MongoDB |
+Express |
+Oracle SQL |
+PL/SQL
 
 
 
