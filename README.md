@@ -10,5 +10,4 @@ Express
 Oracle SQL
 PL/SQL
 
-react node  javascript  tailwind  bootstrap  git  mongodb mysql 
 
