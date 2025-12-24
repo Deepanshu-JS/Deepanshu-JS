@@ -6,7 +6,6 @@ I am Deepanshu Singh. I'm skilled with JavaScript💻. I've worked for various P
 
 React |
 JavaScript |
-GSAP |
 Animation |
 Oracle SQL |
 PL/SQL
